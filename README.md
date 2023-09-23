@@ -5,7 +5,7 @@ A simple, highly scalable (maybe) and open source song list web page
 ---
 
 <div align=center>
-  <img width="150" height="150" src="https://i2.hdslb.com/bfs/face/0a5cee2c95b43387567e44270cbfd4bcd9b81543.jpg@240w_240h_1c_1s.webp" alt="关注蕾娜Layla喵，关注蕾娜Layla谢谢喵"/> 
+  <img width="150" height="150" src="https://i2.hdslb.com/bfs/face/00fb15a0bb7d627c69bc1238e5f38d8cea0b9ec7.jpg@240w_240h_1c_1s_!web-avatar-space-header.avif" alt="关注蕾娜Layla喵，关注蕾娜Layla谢谢喵"/> 
 </div>
 
 <div align=center>
